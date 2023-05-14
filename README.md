@@ -25,6 +25,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
 [<img align="left" alt="Kaggle" width="26px" src="https://cdn.worldvectorlogo.com/logos/kaggle-1.svg" />][kaggle]
+[<img align="left" alt="PyCharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" />][pycharm]
 
 
 <br />
@@ -42,4 +43,5 @@
 [vsCode]: https://code.visualstudio.com/
 [github]: https://github.com/EmreUral
 [python]: https://www.python.org/
+[pycharm]: https://www.jetbrains.com/pycharm/
 
