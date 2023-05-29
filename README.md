@@ -26,8 +26,8 @@
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
 [<img align="left" alt="Kaggle" width="26px" src="https://cdn.worldvectorlogo.com/logos/kaggle-1.svg" />][kaggle]
 [<img align="left" alt="PyCharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" />][pycharm]
-[<img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" />][html5]
-[<img align="left" alt="CSS3" width="26px" src="https://commons.wikimedia.org/wiki/File:CSS3_logo_and_wordmark.svg" />][css3]
+[<img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" />]
+[<img align="left" alt="CSS3" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" />]
 
 
 <br />
