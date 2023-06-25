@@ -4,7 +4,7 @@
 
 ## I'm a Data Scientist and Python Developer!
 -  I am currently working on Python and Data Science. I share my work on Kaggle.
--  I’m currently learning HTML, CSS and JAVASCRİPT.
+-  I’m currently learning HTML, CSS and JAVASCRIPT.
 -  I am interested in data science related works in general and my studies will be in this field.
 
 <br />
